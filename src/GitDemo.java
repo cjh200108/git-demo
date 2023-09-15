@@ -10,5 +10,6 @@ public class GitDemo {
         System.out.println("git demo 2");
         System.out.println("git demo 3");
         System.out.println("hot-fix test");
+        System.out.println("github");
     }
 }
